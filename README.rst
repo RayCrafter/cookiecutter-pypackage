@@ -18,7 +18,7 @@ Usage
 
 Generate a Python package project::
 
-    $ cookiecutter https://github.com/storax/cookiecutter-pypackage.git
+    $ cookiecutter https://github.com/RayCrafter/cookiecutter-pypackage.git
 
 Then:
 
