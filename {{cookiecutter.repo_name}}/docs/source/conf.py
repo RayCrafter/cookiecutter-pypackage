@@ -85,5 +85,5 @@ autosummary_generate = True
 # -- Jinjaapidoc Config ---------------------------------------------------
 
 jinjaapi_srcdir = os.path.abspath(os.path.join(thisdir, '..', '..', 'src'))
-jinjaapi_outputdir = os.path.abspath(os.path.join(thisdir, 'source', '{{cookiecutter.referencedir}}'))
+jinjaapi_outputdir = os.path.abspath(os.path.join(thisdir, '{{cookiecutter.referencedir}}'))
 jinjaapi_nodelete = False
